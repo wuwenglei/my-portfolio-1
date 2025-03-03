@@ -107,6 +107,7 @@ const TAB_DATA = [
             <li>SysOps Administrator - Associate</li>
             <li>Data Engineer - Associate</li>
             <li>Cloud Practitioner</li>
+            <li>AI Practitioner</li>
           </ul>
         </li>
       </ul>
