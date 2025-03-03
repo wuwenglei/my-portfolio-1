@@ -41,24 +41,24 @@ const projectsData = [
     gitUrl: "https://github.com/Remi09UT/bookkeeping",
     previewUrl: "https://devpost.com/software/receipt-auto-record-system-by-gcp-ai",
   },
-  // {
-  //   id: 5,
-  //   title: "",
-  //   description: "",
-  //   image: "/images/projects/",
-  //   tag: ["All"],
-  //   gitUrl: "/",
-  //   previewUrl: "/",
-  // },
-  // {
-  //   id: 6,
-  //   title: "",
-  //   description: "",
-  //   image: "/images/projects/",
-  //   tag: ["All"],
-  //   gitUrl: "/",
-  //   previewUrl: "/",
-  // },
+  {
+    id: 5,
+    title: "SaaS - My Store",
+    description: "An all-inclusive personal store management platform.",
+    image: "/images/projects/saas-my-store/transaction-list.png",
+    tag: ["All", "Dev"],
+    gitUrl: "/",
+    previewUrl: "https://my-store.wuwenglei.com",
+  },
+  {
+    id: 6,
+    title: "Coming Soon",
+    description: "More projects are coming soon ...",
+    image: "/images/projects/coming-soon/coming-soon.png",
+    tag: ["All"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
